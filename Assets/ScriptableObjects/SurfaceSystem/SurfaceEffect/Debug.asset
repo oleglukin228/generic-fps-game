@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c394e227703b04584ccb381f5ecb9d, type: 3}
+  m_Name: Debug
+  m_EditorClassIdentifier: 
+  spawnedObjects:
+  - {fileID: 4438266350785569262, guid: fdd8da0055ad5e34f98e3516ba746b37, type: 3}
+  spawnedDecals:
+  - decalMaterial: {fileID: 2100000, guid: 077ec326f0c0a9443ac9afd68fb4e849, type: 2}
+    decalSize: 1
+    decalDepth: 0.6
+  audioClips: []

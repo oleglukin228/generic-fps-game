@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1dba3f81a531d64c880da8adc37ca09, type: 3}
+  m_Name: Flesh
+  m_EditorClassIdentifier: 
+  impactEffects:
+  - surfaceImpact: {fileID: 11400000, guid: cb69dfd625399034896bfa1b69ff22c5, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 0e82f27b711154640b008aa4bee46f32, type: 2}
+  - surfaceImpact: {fileID: 11400000, guid: 3223402ebd7121f4ea77f4ec5cc5066f, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 0e82f27b711154640b008aa4bee46f32, type: 2}
+  - surfaceImpact: {fileID: 11400000, guid: 0e5d8c5358b6482468c03ff2c9de9710, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 77bea99ff8c7ebb4db4d9c2ab2c350c3, type: 2}
+  - surfaceImpact: {fileID: 11400000, guid: 26df97f1e444e10459b0157a8e2f610b, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 1f21e2a6f59c346469d233f38be72058, type: 2}
+  allowFootprints: 0

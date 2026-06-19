@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c394e227703b04584ccb381f5ecb9d, type: 3}
+  m_Name: MeleeOnFlesh
+  m_EditorClassIdentifier: 
+  spawnedObjects:
+  - {fileID: 1000010191825552, guid: 83e55d3418297934fab882559d009285, type: 3}
+  spawnedDecals:
+  - decalMaterial: {fileID: 2100000, guid: f0603eeff1007a744880e588e7c9cb56, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  - decalMaterial: {fileID: 2100000, guid: 33c6afb68ffef2a468da3b3027b3104c, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  - decalMaterial: {fileID: 2100000, guid: 8b0ba2a6890588843a4344ae840aea01, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  - decalMaterial: {fileID: 2100000, guid: e2f5967824a66d14ba30d6e096957fe9, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  - decalMaterial: {fileID: 2100000, guid: 282d056a70575bb499182419d9a9d8ba, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  - decalMaterial: {fileID: 2100000, guid: 3b8871b1fd04efd4b926165c0be5c404, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  audioClips:
+  - clip: {fileID: 8300000, guid: d36fdc991116ecf499cd0d9dcc3e5291, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: d2fc3bad2e10ed94c8c7d8a35372f7bc, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: d2fc3bad2e10ed94c8c7d8a35372f7bc, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0

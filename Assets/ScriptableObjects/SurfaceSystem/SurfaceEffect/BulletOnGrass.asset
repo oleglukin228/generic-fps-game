@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c394e227703b04584ccb381f5ecb9d, type: 3}
+  m_Name: BulletOnGrass
+  m_EditorClassIdentifier: 
+  spawnedObjects:
+  - {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd, type: 3}
+  spawnedDecals:
+  - decalMaterial: {fileID: 2100000, guid: 3de35b8129e4ed048b41d877f99f4fba, type: 2}
+    decalSize: 0.3
+    decalDepth: 0.1
+  audioClips:
+  - clip: {fileID: 8300000, guid: 8fddf5bc1af0d6e489d449323f92856c, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 20
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: 91782de2eb16d5a4c8fad5988aa54b28, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 20
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: 05212d5fa894adb49a9cc2ade5abb7e6, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 20
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0

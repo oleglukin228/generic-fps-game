@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1dba3f81a531d64c880da8adc37ca09, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  impactEffects:
+  - surfaceImpact: {fileID: 11400000, guid: eb67164bcda250f408ed9943dc8ac4db, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: b990f772214cbc14881dd79a796aeb14, type: 2}
+  - surfaceImpact: {fileID: 11400000, guid: cb69dfd625399034896bfa1b69ff22c5, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 31b53d3e390d64a4c88e2bf01f54d2a0, type: 2}
+  - surfaceImpact: {fileID: 11400000, guid: 3223402ebd7121f4ea77f4ec5cc5066f, type: 2}
+    surfaceEffect: {fileID: 11400000, guid: 31b53d3e390d64a4c88e2bf01f54d2a0, type: 2}
+  allowFootprints: 1

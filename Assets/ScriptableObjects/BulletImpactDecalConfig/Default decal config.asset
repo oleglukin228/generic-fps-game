@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338147f4916f9d44a92243836a6949fb, type: 3}
+  m_Name: Default decal config
+  m_EditorClassIdentifier: 
+  decals:
+  - decals:
+    - {fileID: 2100000, guid: 3de35b8129e4ed048b41d877f99f4fba, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: 76c05a5169b49044cbb3c0dd4e49b3a6, type: 3}
+    - {fileID: 8300000, guid: 8098672e527bdc947be83a79cd9dabb4, type: 3}
+    - {fileID: 8300000, guid: 3c9822eb91ae21e4fb3c33a7af8b821a, type: 3}
+    - {fileID: 8300000, guid: a653e50aac0bde541851ab0d73b87855, type: 3}
+    decalSize: 0.2
+    overrideTag: Sand or grass
+    decalDepth: 0.1
+    particle: {fileID: 1000012142692022, guid: a475880e7da0e9548aa05cb7933752cd, type: 3}
+  - decals:
+    - {fileID: 2100000, guid: f4cb84ad1b8d38f488309b0a3b26e645, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: fbff6bd8165534145824d1a40e365bf7, type: 3}
+    - {fileID: 8300000, guid: 4ca235815101e32429f70caf193c10ba, type: 3}
+    - {fileID: 8300000, guid: 40ada946cb8b8b94a8dd09eae2fbd7f0, type: 3}
+    - {fileID: 8300000, guid: 3af8d74dee249084bac7806a574a2d1b, type: 3}
+    decalSize: 0.2
+    overrideTag: Concrete
+    decalDepth: 0.1
+    particle: {fileID: 1000010844420130, guid: 4edabb1c0dde62743b137378c7d22980, type: 3}
+  - decals:
+    - {fileID: 2100000, guid: f0603eeff1007a744880e588e7c9cb56, type: 2}
+    - {fileID: 2100000, guid: 33c6afb68ffef2a468da3b3027b3104c, type: 2}
+    - {fileID: 2100000, guid: 8b0ba2a6890588843a4344ae840aea01, type: 2}
+    - {fileID: 2100000, guid: e2f5967824a66d14ba30d6e096957fe9, type: 2}
+    - {fileID: 2100000, guid: 282d056a70575bb499182419d9a9d8ba, type: 2}
+    - {fileID: 2100000, guid: 3b8871b1fd04efd4b926165c0be5c404, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: 9c1440f065d462e448e23f0e5e509dbc, type: 3}
+    - {fileID: 8300000, guid: 1c2b93c55644e454184de6059c93c45c, type: 3}
+    - {fileID: 8300000, guid: 882423a986d176149a2f29e544373245, type: 3}
+    - {fileID: 8300000, guid: 74177f40fc8ee9a498860bd0b267d8b3, type: 3}
+    - {fileID: 8300000, guid: d6f747209317f9e43a4f0616af274231, type: 3}
+    decalSize: 0.3
+    overrideTag: Flesh
+    decalDepth: 0.1
+    particle: {fileID: 1000010191825552, guid: 83e55d3418297934fab882559d009285, type: 3}
+  - decals:
+    - {fileID: 2100000, guid: 9a2143ba11b56c24f891cbc5346da878, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: 27b586c8997717b4492c80fe6fa63993, type: 3}
+    - {fileID: 8300000, guid: ea25e805b81131c499dc5ca2fa97bb3d, type: 3}
+    - {fileID: 8300000, guid: cf738a8348deda6408c660eaed2328a9, type: 3}
+    - {fileID: 8300000, guid: 970b3c7d3dfb9e144924ee7a8272e4cf, type: 3}
+    decalSize: 0.2
+    overrideTag: Wood
+    decalDepth: 0.1
+    particle: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3, type: 3}
+  - decals:
+    - {fileID: 2100000, guid: c77f7ffb475cbba4c99d031d9bced3e4, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: 0f461c0ce5f5b87418e8b72f04598328, type: 3}
+    - {fileID: 8300000, guid: 90077702b3116e749af0e47e5f56b93e, type: 3}
+    - {fileID: 8300000, guid: 9cf115374eac5ee409c9ec018b6a4251, type: 3}
+    - {fileID: 8300000, guid: 0341dba1268bb47448671adb762d4801, type: 3}
+    - {fileID: 8300000, guid: 21b2c7f53febd1d429ab43e77755a992, type: 3}
+    decalSize: 0.2
+    overrideTag: Metal
+    decalDepth: 0.1
+    particle: {fileID: 1000010355441670, guid: 02a509a7fa70ed740ba4197e20c5d32d, type: 3}
+  - decals:
+    - {fileID: 2100000, guid: 2e2cbe10a81ccd34d9f5700cc70cc51d, type: 2}
+    playSound:
+    - {fileID: 8300000, guid: b9cc53c3aa9867e478056d1c94de2eeb, type: 3}
+    - {fileID: 8300000, guid: 01efb3a981f8b624e9df9471aacf31cc, type: 3}
+    - {fileID: 8300000, guid: e98b95fd55a67e84496821e21572b521, type: 3}
+    - {fileID: 8300000, guid: 8be8c2f7348be5f4f95136a7dd47839c, type: 3}
+    decalSize: 0.2
+    overrideTag: Glass
+    decalDepth: 0.1
+    particle: {fileID: 1000011190285628, guid: 8f54618e00bb6094dae9b8e84758c580, type: 3}

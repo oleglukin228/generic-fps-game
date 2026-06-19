@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f650dca682abeb4b9cf4ee774aaf6ca, type: 3}
+  m_Name: AKM
+  m_EditorClassIdentifier: 
+  damage: 36
+  hitForce: 3.5
+  shootingSpeed: 0.1
+  allowButtonHold: 1
+  Spread: {x: 0.25, y: 0.25, z: 0.25}
+  MinSpread: {x: 0.01, y: 0.01, z: 0.01}
+  absoluteSpreadValue: 0
+  RecoilRecoverySpeed: 10
+  MaxSpreadTime: 1
+  spreadMultiplier: 2.5
+  kickbackForce: 0.05
+  resetSmooth: 20
+  shotSound:
+    clip: {fileID: 8300000, guid: df4c4820d576ee8418375730b8cd7c68, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 1
+    maxDistance: 500
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  dryFireSound:
+    clip: {fileID: 0}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 0
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 0
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 1
+    maxDistance: 500
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  aimSensitivityMultiplier: 1
+  focusDistance: 0.12
+  aimWeaponPos: {x: -0.013, y: -0.0428, z: 0.14}
+  aimWeaponRot: {x: 0, y: 0, z: 0, w: 0}

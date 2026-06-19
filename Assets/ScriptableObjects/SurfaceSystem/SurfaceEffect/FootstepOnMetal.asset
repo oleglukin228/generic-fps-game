@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c394e227703b04584ccb381f5ecb9d, type: 3}
+  m_Name: FootstepOnMetal
+  m_EditorClassIdentifier: 
+  spawnedObjects: []
+  spawnedDecals: []
+  audioClips:
+  - clip: {fileID: 8300000, guid: 3e299b9129329f24692bb63f57f33d19, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 1
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: 83e12fcd809c9444192c377fe18a65e5, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 1
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: 6056a660bb0897e4ea25a31889075437, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 1
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
+  - clip: {fileID: 8300000, guid: 22dffeeb60f8846499a8c08a2c0e6f80, type: 3}
+    mixerGroup: {fileID: 0}
+    loop: 0
+    playOnAwake: 1
+    frequentSound: 0
+    mute: 0
+    bypassEffects: 0
+    bypassListenerEffects: 0
+    bypassReverbZones: 0
+    priority: 128
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    spatialBlend: 1
+    reverbZoneMix: 1
+    dopplerLevel: 1
+    spread: 0
+    minDistance: 2
+    maxDistance: 10
+    ignoreListenerVolume: 0
+    ignoreListenerPause: 0
+    rolloffMode: 0
